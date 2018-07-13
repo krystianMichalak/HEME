@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>HEME100.jpg</file>
+        <file>3d_blood.jpg</file>
+    </qresource>
+</RCC>
